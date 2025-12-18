@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("assets/components/footer.html")
+    fetch("./assets/components/footer.html")
         .then(response => response.text())
         .then(data => {
             document.getElementById("footer").innerHTML = data;
