@@ -96,6 +96,11 @@ body {
 
 }
 
+.spacing {
+  padding-top: 3rem ;
+  padding-bottom: 5rem ;
+}
+
 /* Removendo estilos padrão de listas */
 ul,
 ol {
