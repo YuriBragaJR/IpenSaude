@@ -138,6 +138,10 @@ a {
   height: 100vh;
 }
 
+.txt-shadow {
+  text-shadow: 0px 0px 15px   #001604;
+}
+
 .logo-footer {
   width: 250px;
 }
